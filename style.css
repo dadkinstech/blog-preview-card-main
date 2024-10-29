@@ -32,6 +32,8 @@ body{
     height: 200px;
     border-radius: 15px;
     overflow: hidden;
+    display: flex;
+    justify-content: center;
 }
 
 #textspace{
